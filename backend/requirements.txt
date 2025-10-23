@@ -2,4 +2,4 @@ Flask
 torch
 numpy
 scikit-learn
-
+flask_cors
